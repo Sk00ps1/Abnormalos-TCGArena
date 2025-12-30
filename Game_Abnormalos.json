@@ -1,15 +1,17 @@
 {
   "name": "Abnormalos",
-  "menuBackgroundImage": "",
+  "menuBackgroundImage": "https://sk00ps1.github.io/Abnormalos-TCGArena/Images/ligei1.jpg",
   "defaultRessources": {
-    "backgrounds": [],
+    "backgrounds": [
+      "https://sk00ps1.github.io/Abnormalos-TCGArena/Images/ligei1.jpg"
+    ],
     "decksUrl": ""
   },
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://sk00ps1.github.io/Abnormalos-TCGArena/CardList.json",
-    "cardBack": ""
+    "cardBack": "https://sk00ps1.github.io/Abnormalos-TCGArena/cardback.jpg"
   },
   "deckBuilding": {
     "mainFilters": [
@@ -17,7 +19,13 @@
       "Subtype",
       "Element"
     ],
-    "formats": []
+    "formats": [
+      {
+        "title": "Default",
+        "gameplay": "Default",
+        "customCategories": []
+      }
+    ]
   },
   "gameplay": {
     "Default": {
