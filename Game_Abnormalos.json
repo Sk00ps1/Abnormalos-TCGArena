@@ -6,9 +6,9 @@
     "decksUrl": ""
   },
   "customHelp": "",
-  "cardRotation": "92",
+  "cardRotation": "90",
   "cards": {
-    "dataUrl": "",
+    "dataUrl": "https://sk00ps1.github.io/Abnormalos-TCGArena/CardList.json",
     "cardBack": ""
   },
   "deckBuilding": {
@@ -20,7 +20,7 @@
     "formats": []
   },
   "gameplay": {
-    "Classic": {
+    "Default": {
       "mulligan": {
         "info": "",
         "startingHandSize": "5",
