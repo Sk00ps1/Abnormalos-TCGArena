@@ -19,13 +19,7 @@
       "Subtype",
       "Element"
     ],
-    "formats": [
-      {
-        "title": "Default",
-        "gameplay": "Default",
-        "customCategories": []
-      }
-    ]
+    "formats": []
   },
   "gameplay": {
     "Default": {
