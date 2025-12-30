@@ -1,0 +1,32 @@
+{
+  "ligeiMC": {
+    "id": "ligeiMC",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ligei Melpomena",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Ligei Melpomena",
+        "type": "Main Character",
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ligei Melpomena",
+    "type": "Main Character",
+    "cost": 0,
+    "Subtype": "Abnormal Siren",
+    "Traits": "Artificial, Female, Variant",
+    "Element": "Water",
+    "Range": "1",
+    "ATK": "5",
+    "HP": "20",
+    "Effect Text": "[CONT]:Allied Side Characters with 1 range get ATK+1. | [ACT]:You can [Pay 2 Energy & Exhaust this card] & Target 1 enemy Character; change the row that Target is on. || [CONT]:Allied Side Characters with 1 range get ATK+1. | [ACT]:You can [Exhaust this card] & Target 1 on-field Character; change the row that Target is on, then you can draw 3 cards. "
+  }
+}
